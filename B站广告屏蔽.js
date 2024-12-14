@@ -19,7 +19,7 @@
             $(this).remove();
             console.log("移除播放页广告")
         })
-        
+
         $(".video-card-ad-small").each(function () {
             $(this).remove();
             console.log("移除播放页广告")
