@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         B站广告屏蔽
 // @namespace    http://tampermonkey.net/
-// @version      2024-12-16
+// @version      2024-12-14
 // @description  try to take over the world!
 // @author       You
 // @match        *://*.bilibili.com/*
